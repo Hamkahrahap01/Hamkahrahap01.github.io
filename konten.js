@@ -44,6 +44,55 @@ const htmlKontenTambahan = `
 
         <a href="https://github.com/Hamkahrahap01" class="btn" style="background: #0f172a; width: 100%; text-align: center; display: block; box-sizing: border-box; color: white; padding: 12px; border-radius: 8px; text-decoration: none;">Lihat Dokumentasi SEO</a>
     </div>
+    <div id="skills-certification" style="margin-top: 40px; border-top: 2px solid #f1f5f9; padding-top: 30px;">
+        <h3 style="color: #0f172a; font-size: 1.4rem; margin-bottom: 20px; text-align: left;">🏆 Sertifikasi & Keahlian Teknis</h3>
+        
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+            <h4 style="color: #3b82f6; margin-bottom: 10px;">Ahli Strategi Digital & SEO</h4>
+            <p style="text-align: left; line-height: 1.6; color: #475569; font-size: 0.95rem;">
+                Memiliki pemahaman mendalam mengenai arsitektur web yang responsif dan teknik optimasi kecepatan akses. Sertifikasi ini mencakup kemampuan dalam melakukan audit teknis SEO untuk memastikan visibilitas maksimal di mesin pencari seperti Google dan Bing.
+            </p>
+        </div>
+
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; margin-bottom: 20px;">
+            <h4 style="color: #3b82f6; margin-bottom: 10px;">Pengembangan Infrastruktur GitHub</h4>
+            <p style="text-align: left; line-height: 1.6; color: #475569; font-size: 0.95rem;">
+                Spesialisasi dalam manajemen repositori dan deployment menggunakan GitHub Pages. Saya mengutamakan struktur kode yang modular dan bersih (clean code) untuk memudahkan pemeliharaan sistem jangka panjang dan integrasi JavaScript yang efisien.
+            </p>
+        </div>
+
+        <p style="text-align: left; line-height: 1.6; color: #475569; font-size: 0.95rem; margin-top: 15px;">
+            Setiap proyek yang dikerjakan oleh Hamkahrahap01 selalu melalui proses pengujian ketat untuk menjamin kompatibilitas di berbagai perangkat mobile, memastikan teks tidak renggang, dan navigasi tetap intuitif bagi pengguna.
+        </p>
+    </div>
+    <div id="service-packages" style="margin-top: 40px; border-top: 2px solid #f1f5f9; padding-top: 30px;">
+        <h3 style="color: #0f172a; font-size: 1.4rem; margin-bottom: 20px; text-align: left;">💼 Solusi & Paket Layanan Digital</h3>
+        
+        <p style="text-align: left; line-height: 1.6; color: #475569; margin-bottom: 20px;">
+            Sebagai spesialis pengembang solusi digital, Hamkahrahap01 menawarkan berbagai paket layanan yang dirancang untuk meningkatkan performa bisnis Anda di dunia siber secara mendalam dan terukur.
+        </p>
+
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; margin-bottom: 15px; border-left: 5px solid #10b981;">
+            <h4 style="color: #0f172a; margin: 0 0 10px 0;">🚀 Paket Optimasi SEO & Performa</h4>
+            <p style="text-align: left; font-size: 0.9rem; color: #475569; margin-bottom: 10px;">Audit teknis mendalam, optimasi kecepatan loading, dan perbaikan struktur data agar website tampil di halaman utama Google.</p>
+            <p style="font-weight: bold; color: #059669; margin: 0;">Mulai dari Rp 500.000,-</p>
+        </div>
+
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; margin-bottom: 15px; border-left: 5px solid #3b82f6;">
+            <h4 style="color: #0f172a; margin: 0 0 10px 0;">🌐 Paket Pembuatan Portofolio Modular</h4>
+            <p style="text-align: left; font-size: 0.9rem; color: #475569; margin-bottom: 10px;">Pembuatan website responsif menggunakan GitHub Pages dengan sistem konten terpisah (JS) agar mudah dikelola lewat HP.</p>
+            <p style="font-weight: bold; color: #2563eb; margin: 0;">Mulai dari Rp 1.500.000,-</p>
+        </div>
+
+        <p style="text-align: left; line-height: 1.6; color: #64748b; font-size: 0.85rem; margin-top: 15px;">
+            *Harga dapat menyesuaikan dengan tingkat kompleksitas arsitektur kode dan kebutuhan integrasi pihak ketiga yang diminta oleh klien.
+        </p>
+    </div>
+    <a href="https://wa.me/085717614202" 
+       target="_blank" 
+       style="position: fixed; bottom: 20px; right: 20px; background-color: #25d366; color: white; border-radius: 50px; text-align: center; font-size: 16px; padding: 12px 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); z-index: 9999; text-decoration: none; display: flex; align-items: center; gap: 8px; font-weight: bold;">
+       <span style="font-size: 20px;">💬</span> Chat WA
+    </a>
     </div>
 `;
 
