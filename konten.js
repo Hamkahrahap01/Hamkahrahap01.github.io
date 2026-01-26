@@ -93,6 +93,28 @@ const htmlKontenTambahan = `
        style="position: fixed; bottom: 20px; right: 20px; background-color: #25d366; color: white; border-radius: 50px; text-align: center; font-size: 16px; padding: 12px 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); z-index: 9999; text-decoration: none; display: flex; align-items: center; gap: 8px; font-weight: bold;">
        <span style="font-size: 20px;">💬</span> Chat WA
     </a>
+    <div id="privacy-policy" style="margin-top: 40px; border-top: 2px solid #f1f5f9; padding-top: 30px; background: #fdfdfd; padding: 20px; border-radius: 12px;">
+        <h3 style="color: #0f172a; font-size: 1.4rem; margin-bottom: 20px; text-align: left;">⚖️ Kebijakan Privasi & Syarat Penggunaan</h3>
+        
+        <p style="text-align: left; line-height: 1.6; color: #475569; margin-bottom: 15px;">
+            Halaman ini menjelaskan komitmen Hamkahrahap01 terhadap keamanan data dan transparansi penggunaan informasi di platform portofolio digital ini. Sebagai pengembang yang mengutamakan privasi, saya menjamin bahwa tidak ada data pribadi pengunjung yang diambil tanpa izin secara eksplisit melalui formulir kontak.
+        </p>
+
+        <h4 style="color: #334155; margin-bottom: 10px; text-align: left;">1. Pengolahan Data Teknis</h4>
+        <p style="text-align: left; line-height: 1.6; color: #475569; font-size: 0.9rem; margin-bottom: 15px;">
+            Situs ini dibangun menggunakan infrastruktur GitHub Pages yang secara otomatis dapat merekam data teknis anonim seperti alamat IP untuk tujuan keamanan dan pencegahan serangan siber. Seluruh arsitektur kode dirancang agar efisien dan tidak mengganggu performa perangkat seluler Anda.
+        </p>
+
+        <h4 style="color: #334155; margin-bottom: 10px; text-align: left;">2. Syarat Penggunaan Konten</h4>
+        <p style="text-align: left; line-height: 1.6; color: #475569; font-size: 0.9rem; margin-bottom: 15px;">
+            Seluruh konten tertulis, dokumentasi proyek, dan aset visual yang ditampilkan adalah hak kekayaan intelektual milik Hamkahrahap01. Dilarang melakukan penggandaan atau penggunaan ulang tanpa atribusi yang jelas sesuai dengan pedoman hak cipta digital yang berlaku.
+        </p>
+
+        <h4 style="color: #334155; margin-bottom: 10px; text-align: left;">3. Perubahan Kebijakan</h4>
+        <p style="text-align: left; line-height: 1.6; color: #475569; font-size: 0.9rem;">
+            Kebijakan ini bersifat dinamis dan dapat berubah sewaktu-waktu seiring dengan pembaruan sistem dan penambahan fitur pada file JavaScript konten ini. Kami menyarankan pengunjung untuk memeriksa halaman ini secara berkala untuk tetap mendapatkan informasi terbaru.
+        </p>
+    </div>
     </div>
 `;
 
